@@ -1,0 +1,86 @@
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\bin\Debug\Первое.exe.config
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\bin\Debug\Первое.exe
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\bin\Debug\Первое.pdb
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\bin\Debug\EntityFramework.dll
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\bin\Debug\EntityFramework.SqlServer.dll
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\bin\Debug\EntityFramework.xml
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\bin\Debug\EntityFramework.SqlServer.xml
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\bin\Debug\ru\EntityFramework.resources.dll
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\Первое.csproj.AssemblyReference.cache
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\Первое.csproj.SuggestedBindingRedirects.cache
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\AdminMenu.g.cs
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\MainWindow.g.cs
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\App.g.cs
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\Первое_Content.g.cs
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\Первое_MarkupCompile.cache
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\Первое_MarkupCompile.lref
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\AdminMenu.baml
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\MainWindow.baml
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\Первое.g.resources
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\Первое.Properties.Resources.resources
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\Первое.csproj.GenerateResource.cache
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\Первое.csproj.CoreCompileInputs.cache
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\Первое.csproj.CopyComplete
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\Первое.exe
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\Первое.pdb
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\services_for_admin.g.cs
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\services_for_admin.baml
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\provided_for_admin.g.cs
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\provided_for_admin.baml
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\AddEditAdmin.g.cs
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\AddEditAdmin.baml
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\ManagerMenu.g.cs
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\provided_for_manager.g.cs
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\services_for_manager.g.cs
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\ManagerMenu.baml
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\provided_for_manager.baml
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\services_for_manager.baml
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\AddEditManager.g.cs
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\AddEditManager.baml
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\reportPage.g.cs
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\obj\Debug\reportPage.baml
+D:\Тренировка ДЭМОЭКЗАМЕН\Первое\Первое\bin\Debug\System.IO.Packaging.dll
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\bin\Debug\Первое.exe.config
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\bin\Debug\Первое.exe
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\bin\Debug\Первое.pdb
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\bin\Debug\EntityFramework.dll
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\bin\Debug\System.IO.Packaging.dll
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\bin\Debug\EntityFramework.xml
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\Первое.csproj.AssemblyReference.cache
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\Первое.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\AddEditAdmin.g.cs
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\AddEditManager.g.cs
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\AdminMenu.g.cs
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\MainWindow.g.cs
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\ManagerMenu.g.cs
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\provided_for_admin.g.cs
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\provided_for_manager.g.cs
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\reportPage.g.cs
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\services_for_admin.g.cs
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\services_for_manager.g.cs
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\App.g.cs
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\Первое_Content.g.cs
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\Первое_MarkupCompile.cache
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\Первое_MarkupCompile.lref
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\AddEditAdmin.baml
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\AddEditManager.baml
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\AdminMenu.baml
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\MainWindow.baml
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\ManagerMenu.baml
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\provided_for_admin.baml
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\provided_for_manager.baml
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\reportPage.baml
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\services_for_admin.baml
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\services_for_manager.baml
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\Первое.g.resources
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\Первое.Properties.Resources.resources
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\Первое.csproj.GenerateResource.cache
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\Первое.csproj.CoreCompileInputs.cache
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\Первое.csproj.CopyComplete
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\Первое.exe
+C:\Users\Student22_04\Desktop\Корниенко\Первое\Первое\obj\Debug\Первое.pdb
